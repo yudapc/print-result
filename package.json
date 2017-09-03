@@ -1,6 +1,6 @@
 {
   "name": "print-result",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Print Result Basicly for console",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,8 @@
   },
   "keywords": [
     "print",
+    "print result",
+    "print-result",
     "result",
     "console"
   ],
@@ -22,7 +24,7 @@
   },
   "jspm": {
     "map": {
-      "print-result": "./index.js"
+      "print-result": "index.js"
     }
   },
   "homepage": "https://github.com/yudapc/print-result#readme"
