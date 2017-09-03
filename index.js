@@ -1,4 +1,4 @@
-exports.PrintResult = function(result, message) {
+exports.results = function(result, message) {
   console.log('-------------------------');
   console.log('Print Result: ');
   console.log('-------------------------');

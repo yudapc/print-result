@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/yudapc/print-result/issues"
   },
-  "devDependencies": {
-    "babel-eslint": "6.0.2"
-  },
   "homepage": "https://github.com/yudapc/print-result#readme"
 }
