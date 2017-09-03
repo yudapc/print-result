@@ -4,7 +4,7 @@
   "description": "Print Result Basicly for console",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -28,5 +28,9 @@
     }
   },
   "homepage": "https://github.com/yudapc/print-result#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "3.5.0"
+  }
 }

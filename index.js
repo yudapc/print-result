@@ -6,4 +6,5 @@ exports.results = function(result, message) {
   if (message !== undefined) {
     console.log('Message: ', message);
   }
+  return { result, message };
 };
