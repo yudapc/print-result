@@ -1,0 +1,27 @@
+{
+  "name": "print-result",
+  "version": "1.0.0",
+  "description": "Print Result Basicly for console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudapc/print-result.git"
+  },
+  "keywords": [
+    "print",
+    "result",
+    "console"
+  ],
+  "author": "Yuda Cogati <yuda.pc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yudapc/print-result/issues"
+  },
+  "devDependencies": {
+    "babel-eslint": "6.0.2"
+  },
+  "homepage": "https://github.com/yudapc/print-result#readme"
+}
