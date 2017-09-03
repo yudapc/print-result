@@ -13,5 +13,5 @@ const { results } = require('print-result');
 pedestal = 10;
 height = 5;
 triagularArea = 0.5 * pedestal * height;
-result(triagularArea, 'should 25');
+results(triagularArea, 'should 25');
 ```
