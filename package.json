@@ -1,6 +1,6 @@
 {
   "name": "print-result",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Print Result Basicly for console",
   "main": "index.js",
   "scripts": {
