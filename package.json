@@ -27,5 +27,6 @@
       "print-result": "index.js"
     }
   },
-  "homepage": "https://github.com/yudapc/print-result#readme"
+  "homepage": "https://github.com/yudapc/print-result#readme",
+  "dependencies": {}
 }

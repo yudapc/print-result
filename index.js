@@ -3,5 +3,7 @@ exports.results = function(result, message) {
   console.log('Print Result: ');
   console.log('-------------------------');
   console.log('Result: ', result);
-  console.log('Message: ', message);
+  if (message !== undefined) {
+    console.log('Message: ', message);
+  }
 };
